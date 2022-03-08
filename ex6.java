@@ -12,6 +12,7 @@ if(year%4==0)
 System.out.println("year is leap year");}
 else 
 {
+ //Edited By Tl
 System.out.println("year is non leap year");}
 }
 }
