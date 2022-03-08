@@ -12,5 +12,6 @@ print(p)
 print(q)
 result=np.add(p,q)
 print(result)
+print(tamizh)
          
        
